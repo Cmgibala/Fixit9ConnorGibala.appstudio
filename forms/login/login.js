@@ -11,5 +11,5 @@ btnSubmit.onclick=function(){
     inptAccount.value = ""
     inptPassword.value = ""
 }
-*/
 
+*/
