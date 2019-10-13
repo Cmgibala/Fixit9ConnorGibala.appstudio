@@ -41,6 +41,30 @@
             "membership", 
             "membership.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculator", 
+            "calculator.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "twoControls", 
+            "twoControls.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -57,7 +81,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "login", 
+      "firstform": "twoControls", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 

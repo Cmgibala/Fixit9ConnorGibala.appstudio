@@ -14,27 +14,36 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "inptFirstName.json"
+        "cdProfile.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "btnSearchName.json"
+        "cbNationality.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "alertMember.json"
+        "lblDescription.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblChanges.json"
       ]
     }
   ], 
@@ -44,7 +53,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "twoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
